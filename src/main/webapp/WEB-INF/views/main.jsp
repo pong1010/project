@@ -178,7 +178,7 @@
 							
 							<div id="mainproject2" class="col-sm-4 col-xs-6">
 								<figure>
-									<a href="/r/slidemini" class="card-reward-item"	style="cursor: pointer;">
+									<a href="/article/article" class="card-reward-item"	style="cursor: pointer;">
 										<div class="card-reward-img">
 											<img
 												src="//image-se.ycrowdy.com/20200610/CROWDY_202006101357030673_DDRlD.jpg/ycrowdy/resize/!340x!226"

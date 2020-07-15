@@ -40,6 +40,29 @@ public class AticleController {
 			return "article/selectoption";
 		}
 	
+	//옵션선택후 다음버튼 출력하기
+	@GetMapping("/selectbutton")
+	public String selectbutton() {
+			
+				
+			return "article/selectbutton";
+		}
+	
+	//바구니
+	@GetMapping("/basket")
+	public String basket() {
+			
+				
+			return "article/basket";
+		}
+	
+	//결제화면
+	@GetMapping("/credit")
+	public String credit() {
+			
+				
+			return "article/credit";
+		}
 	
 	
 	//아티클창

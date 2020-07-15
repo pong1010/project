@@ -3062,10 +3062,26 @@ rgba(
 	max-width: 300px
 }
 
+
+.funding-area-zip-span {
+	width: 34px;
+	height: 34px;
+	background-image: url(../resources/willfun/img/dropdown-search-2.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: 21px 21px;
+	border: 1px solid #fff;
+	cursor: pointer;
+	margin-left: 5px
+}
+
+
+
+
 #paymentInfo span.funding-area-zip-span {
 	width: 34px;
 	height: 34px;
-	background-image: url(../img/dropdown-search-2.png);
+	background-image: url(../resources/willfun/img/dropdown-search-2.png);
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
 	background-size: 21px 21px;

@@ -22,8 +22,7 @@
 					<a href="article" style="color: white; text-decoration: none;" >
 			<div class="reward-choice-boxBack-pc">
 				<div class="reward-choice-storyBackBtn">
-					<i class="fa fa-angle-left"></i>
-					<div class="reward-choice-storyBackText">스토리로 돌아가기</div>
+					<div class="reward-choice-storyBackText" style="font-size:25px;"><i class="fa fa-angle-left"></i>스토리로 돌아가기</div>
 				</div>
 			</div>
 					</a>
@@ -44,10 +43,15 @@
 			</div>
 			<div class="reward-choice-margin">
 				<div class="common-flex-between" style="align-items: center;">
-					<span class="reward-choice-title mt10 xs-mt0 mb25">리워드 선택</span>
+					<span class="reward-choice-title mt10 xs-mt0 mb25">리워드 선택
+					장바구니에서 리워드 추가하기 누르면 이페이지로 다시오고 다시 장바구니로
+					돌아가는 버튼 있어야함.  </span>
 					<!---->
 				</div>
-				<div class="reward-choice-optionBox-white rewad-chocie-active">
+				<br/><br/>
+				
+				<div class="reward-choice-optionBox-white rewad-chocie-active" >
+				<a href="select" style="color: white; text-decoration: none;" >
 					<div class="reward-choice-boxlabel">
 						<!---->
 						<!---->
@@ -66,7 +70,12 @@
 						1개</div>
 					<div class="reward-choice-boxdesc">정가 89,000원-&gt; 24%할인
 						슈퍼얼리버드: 68,000원</div>
+				</a>
 				</div>
+				
+				
+				
+				
 				<div class="reward-choice-optionBox-white rewad-chocie-active">
 					<div class="reward-choice-boxlabel">
 						<!---->
@@ -211,9 +220,6 @@
 				<!---->
 			</div>
 		</div>
-<!-- 	<div >
-		<div class="reward-option-bottomStepBtn">다음단계</div>
-	</div> -->
 </div>
 
 
